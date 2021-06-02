@@ -3,3 +3,4 @@ numpy
 pyautogui
 keyboard
 pynput
+pillow
